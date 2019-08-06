@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [AboutPackt](README.md)
 * [Contributors](contributors.md)
