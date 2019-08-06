@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [AboutPackt](README.md)
+* [Contributors](contributors.md)
+* [Preface](preface.md)
 
