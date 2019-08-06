@@ -1,2 +1,2 @@
-# GitBook
-EBook
+# Initial page
+
