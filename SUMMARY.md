@@ -8,5 +8,5 @@
 
 ## VR功能与模板
 
-* [金螳螂家360全景换材](vr-gong-neng-yu-mo-ban/untitled.md)
+* [金螳螂家360全景换材](vr-gong-neng-yu-mo-ban/360pano.md)
 
