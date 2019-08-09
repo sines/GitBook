@@ -5,6 +5,7 @@
 ## VR后台
 
 * [环境](vr-hou-tai/huan-jing.md)
+* [全景图管理](vr-hou-tai/quan-jing-tu-guan-li.md)
 
 ## VR功能与模板
 
@@ -14,4 +15,8 @@
 
 * [Camera\_360](plugins/camera_360.md)
 * [UltimateTouchComponents](plugins/ultimatetouchcomponents.md)
+
+## VR模板与功能
+
+* [金螳螂家360全景换材](vr-mo-ban-yu-gong-neng/jin-tang-lang-jia-360-quan-jing-huan-cai.md)
 
