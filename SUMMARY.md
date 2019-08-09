@@ -16,7 +16,3 @@
 * [Camera\_360](plugins/camera_360.md)
 * [UltimateTouchComponents](plugins/ultimatetouchcomponents.md)
 
-## VR模板与功能
-
-* [金螳螂家360全景换材](vr-mo-ban-yu-gong-neng/jin-tang-lang-jia-360-quan-jing-huan-cai.md)
-
