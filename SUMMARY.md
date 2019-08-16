@@ -10,6 +10,7 @@
 ## VR功能与模板
 
 * [金螳螂家360全景换材](vr-gong-neng-yu-mo-ban/360pano.md)
+* [画面效果LUT素材制作流程](vr-gong-neng-yu-mo-ban/hua-mian-xiao-guo-lut-su-cai-zhi-zuo-liu-cheng.md)
 
 ## 插件-Plugins <a id="plugins"></a>
 
