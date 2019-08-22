@@ -29,3 +29,7 @@
 5. 按模块文件夹存放相应的类文件。
 6. 尽量使用智能指针TSharedRef，TSharedPtr。
 
+## UE4 官方规范
+
+[https://wiki.unrealengine.com/Assets\_Naming\_Convention](https://wiki.unrealengine.com/Assets_Naming_Convention)
+
