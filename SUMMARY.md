@@ -9,6 +9,8 @@
 
 ## VR功能与模板
 
+* [环境切换](vr-gong-neng-yu-mo-ban/kai-fa-huan-jing-qie-huan.md)
+* [鼠标操作](vr-gong-neng-yu-mo-ban/shu-biao-cao-zuo.md)
 * [金螳螂家360全景换材](vr-gong-neng-yu-mo-ban/360pano.md)
 * [画面效果LUT素材制作流程](vr-gong-neng-yu-mo-ban/hua-mian-xiao-guo-lut-su-cai-zhi-zuo-liu-cheng.md)
 
@@ -53,6 +55,7 @@
     * [画面效果](umg-mo-kuai/menutool/xuan-ran/hua-mian-xiao-guo.md)
   * [工具](umg-mo-kuai/menutool/gong-ju/README.md)
     * [测距](umg-mo-kuai/menutool/gong-ju/ce-ju.md)
+    * [漫游及视频](umg-mo-kuai/menutool/gong-ju/man-you-ji-shi-pin.md)
   * [头像功能](umg-mo-kuai/menutool/tou-xiang-gong-neng.md)
 * [SceneTool](umg-mo-kuai/scenetool/README.md)
   * [2D/3D 切换](umg-mo-kuai/scenetool/2d3d-qie-huan.md)
@@ -64,11 +67,7 @@
 * [其他按钮](umg-mo-kuai/qi-ta-an-niu/README.md)
   * [全屏功能](umg-mo-kuai/qi-ta-an-niu/quan-ping-gong-neng.md)
   * [相机视角](umg-mo-kuai/qi-ta-an-niu/xiang-ji-shi-jiao.md)
-
-## 功能模块
-
-* [鼠标操作](gong-neng-mo-kuai/shu-biao-cao-zuo.md)
-* [环境切换](gong-neng-mo-kuai/kai-fa-huan-jing-qie-huan.md)
+* [Untitled](umg-mo-kuai/untitled.md)
 
 ## 数据组织
 

@@ -4,7 +4,7 @@
 
 最后更新日期：2019-8-21
 
-### 1.**根数据结构**
+## 1.**根数据结构**
 
 ```java
 {
@@ -36,7 +36,7 @@ actors：保存场景的软装模型信息，在下文说明。·
 
 partitions：保存场景输出全屋全景图时需要的分区信息。
 
-### **2.house数据信息**
+## **2.house数据信息**
 
 ```java
 house:{
@@ -112,7 +112,7 @@ material:{
 }
 ```
 
-### **3.actors 软装模型信息**
+## **3.actors 软装模型信息**
 
 ```java
 actors:
@@ -158,7 +158,7 @@ transform：actor transformation
 
 materials：此actor的StaticMeshComponent所用的material数组，material节点见下文
 
-### **4.material材质节点的格式详解**
+## **4.material材质节点的格式详解**
 
 ```java
 material:{
@@ -227,7 +227,7 @@ template:{
 
 template：动态材质所用的模版（父材质）名字
 
-### **5.RoomSpaceDesc节点**
+## **5.RoomSpaceDesc节点**
 
 ```text
 RoomSpaceDesc:[
@@ -237,7 +237,7 @@ RoomSpaceDesc:[
 
 保存房间的空间划分相关信息（待补充）
 
-### **6.PanoData**
+## **6.PanoData**
 
 ```javascript
 PanoData:{
