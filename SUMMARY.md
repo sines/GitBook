@@ -82,4 +82,6 @@
 * [模型转化](vrdesign-xiang-guan-fu-wu/mo-xing-zhuan-hua.md)
 * [方案烘焙](vrdesign-xiang-guan-fu-wu/fang-an-hong-bei.md)
 * [增加光照情景](vrdesign-xiang-guan-fu-wu/zeng-jia-guang-zhao-qing-jing.md)
+* [一键VR服务器远程连接](vrdesign-xiang-guan-fu-wu/yi-jian-vr-fu-wu-qi.md)
+* [一键VR自动转换部署](vrdesign-xiang-guan-fu-wu/yi-jian-vr-zi-dong-zhuan-huan-bu-shu.md)
 
