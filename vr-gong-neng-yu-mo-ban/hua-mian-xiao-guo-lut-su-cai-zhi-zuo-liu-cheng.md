@@ -38,7 +38,7 @@
 
 #### 3.保存应用LUT后的纹理
 
-![&#x4FDD;&#x5B58;&#x540E;&#x7684;LUT](../.gitbook/assets/image%20%289%29.png)
+![&#x4FDD;&#x5B58;&#x540E;&#x7684;LUT](../.gitbook/assets/image%20%2811%29.png)
 
 #### 4.在UE4中导入LUT
 

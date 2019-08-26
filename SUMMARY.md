@@ -65,9 +65,9 @@
   * [全局设置](umg-mo-kuai/scenetool/quan-ju-she-zhi.md)
 * [模型信息页](umg-mo-kuai/mo-xing-xin-xi-ye.md)
 * [其他按钮](umg-mo-kuai/qi-ta-an-niu/README.md)
+  * [光照场景切换](umg-mo-kuai/qi-ta-an-niu/guang-zhao-chang-jing-qie-huan.md)
   * [全屏功能](umg-mo-kuai/qi-ta-an-niu/quan-ping-gong-neng.md)
   * [相机视角](umg-mo-kuai/qi-ta-an-niu/xiang-ji-shi-jiao.md)
-* [Untitled](umg-mo-kuai/untitled.md)
 
 ## 数据组织
 
