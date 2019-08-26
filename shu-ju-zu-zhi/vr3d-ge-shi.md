@@ -64,5 +64,5 @@ Q3DType:Door/Window/Null
 1. 一些自己使用Tags:
 2. ResType:Triangle\(用于设计师模板插件隐藏显示功能\)
 
-![](../.gitbook/assets/0.png)
+![](../.gitbook/assets/0%20%281%29.png)
 
