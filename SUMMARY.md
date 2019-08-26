@@ -75,6 +75,7 @@
 * [VR3D格式](shu-ju-zu-zhi/vr3d-ge-shi-1.md)
 * [JobData组织](shu-ju-zu-zhi/jobdata-zu-zhi.md)
 * [代码规范](shu-ju-zu-zhi/untitled.md)
+* [云设计对应VR数据分析工具](shu-ju-zu-zhi/yun-she-ji-dui-ying-vr-shu-ju-fen-xi-gong-ju.md)
 
 ## VRDesign相关服务
 
